@@ -1,6 +1,6 @@
 <h1 align="left">Hola 👋, Soy Luis Miguel Aragon Duarte</h1>
 <h3 align="left">Un apasionada del desarrollo web</h3>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miguel-aragón-2726bb267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-aragón-2726bb267" height="30" width="40" /></a>
 </p>
